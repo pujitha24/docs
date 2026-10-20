@@ -14,6 +14,7 @@ and this project adheres to
 
 ### Changed
 
+- 🔒️(backend) only let creators delete their sub docs without children
 - ♻️(frontend) replace outdated AGPL mentions of BlockNote XL packages #2775
 - 💄(frontend) update upload loader and error ui #2778
 - ⬆️(yhub) upgrade @y/hub to 0.10.1 #2853
